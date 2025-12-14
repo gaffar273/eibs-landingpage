@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Simplified KBS logo for favicon -->
+  <rect x="4" y="17" width="24" height="12" stroke="#2eff71" stroke-width="2" fill="#050a04"/>
+  <line x1="10" y1="17" x2="10" y2="29" stroke="#2eff71" stroke-width="2"/>
+  <line x1="16" y1="17" x2="16" y2="29" stroke="#2eff71" stroke-width="2"/>
+  <line x1="22" y1="17" x2="22" y2="29" stroke="#2eff71" stroke-width="2"/>
+  <rect x="10" y="7" width="12" height="10" stroke="#2eff71" stroke-width="2" fill="#050a04"/>
+  <line x1="16" y1="3" x2="16" y2="7" stroke="#2eff71" stroke-width="2"/>
+</svg>
