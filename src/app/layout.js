@@ -11,8 +11,12 @@ export const metadata = {
   description: "The premier blockchain conference at IIT Kharagpur organized by Kharagpur Blockchain Society. Join 500+ innovators, developers, and thought leaders for the future of Web3.",
   keywords: "blockchain, summit, conference, Web3, crypto, DeFi, NFT, IIT Kharagpur, KBS, hackathon",
   icons: {
-    icon: "/kbs-logo.png",
+    icon: [
+      { url: "/favicon.ico" },
+      { url: "/kbs-logo.png", type: "image/png" }
+    ],
     apple: "/kbs-logo.png",
+    shortcut: "/favicon.ico",
   },
   openGraph: {
     title: "East-India Blockchain Summit 2026",
